@@ -1,0 +1,50 @@
+_repo: My-lady-of-Cleeve_73686
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Fisher, Harrison
+    birthdate: 1875
+    deathdate: 1934
+    gutenberg_agent_id: '25149'
+    url: http://www.gutenberg.org/2009/agents/25149
+    wikipedia: https://en.wikipedia.org/wiki/Harrison_Fisher
+  - agent_name: Pfeifer, Herman
+    birthdate: 1879
+    deathdate: 1931
+    gutenberg_agent_id: '31534'
+    url: http://www.gutenberg.org/2009/agents/31534
+creator:
+  author:
+    agent_name: Hartley, Percy John
+    alias: Hartley, Percy J.
+    birthdate: 1875
+    gutenberg_agent_id: '57176'
+    url: http://www.gutenberg.org/2009/agents/57176
+description: ''
+gutenberg_issued: '2024-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73686'
+language: en
+pgterms:marc904: https://archive.org/details/myladyofcleeve00hartiala/mode/2up
+pgterms:marc905: 20221120152222hartley
+pgterms:marc906: '1908'
+pgterms:marc907: us
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bDodd, Mead & Company, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Soldiers -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Swordsmen -- Fiction'
+- !lcsh 'Great Britain -- History -- William and Mary, 1689-1702 -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: My lady of Cleeve
+url: http://www.gutenberg.org/ebooks/73686
