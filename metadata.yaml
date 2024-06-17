@@ -13,6 +13,9 @@ contributor:
     deathdate: 1931
     gutenberg_agent_id: '31534'
     url: http://www.gutenberg.org/2009/agents/31534
+covers:
+- cover_type: archival
+  image_path: 73686-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Hartley, Percy John
@@ -21,6 +24,8 @@ creator:
     gutenberg_agent_id: '57176'
     url: http://www.gutenberg.org/2009/agents/57176
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73686#My-lady-of-Cleeve
 gutenberg_issued: '2024-05-24'
 gutenberg_type: Text
 identifiers:
